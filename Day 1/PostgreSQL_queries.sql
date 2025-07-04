@@ -139,7 +139,7 @@ WHERE EXISTS (
 
 
 UPDATE customer
-SET first_name = 'bhavik', last_name = 'rohit', email = 'bhavikrohit22@gmail.com'
+SET first_name = 'vansh', last_name = 'patel', email = 'vanshpatel@gmail.com'
 WHERE customer_id = 1;
 
 
